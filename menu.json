@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Борщ",
+        "price": 120,
+        "type": "main",
+        "weight_g": 350
+    },
+    {
+        "name": "Узвар",
+        "price": 40,
+        "type": "drink",
+        "volume_ml": 250
+    },
+    {
+        "name": "Медовик",
+        "price": 90,
+        "type": "dessert",
+        "is_vegan": false
+    },
+    {
+        "name": "Фруктовий салат",
+        "price": 80,
+        "type": "dessert",
+        "is_vegan": true
+    },
+    {
+        "name": "aplle pie",
+        "price": 12.0,
+        "type": "dessert",
+        "is_vegan": false
+    }
+]
